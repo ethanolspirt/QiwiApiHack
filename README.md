@@ -5,4 +5,8 @@ Qiwi Api Hack - это программа для работы с Qiwi Api(Token)
 <li>Установите все модули коммандой <b>sh install.sh</b>
 <li>Введите в <b>Token QIWI.txt</b> токен для работы с ним
 <li>Запустите программу и начните работу
+</li>
+<hr/>
+<p align="center"><h1>Скриншот</h1></p>
+<p align="center"><img src="https://github.com/deniskrupina/QiwiApiHack/blob/master/img/screen.png"/></p>
 
