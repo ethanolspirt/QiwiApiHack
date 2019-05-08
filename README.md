@@ -7,6 +7,6 @@ Qiwi Api Hack - это программа для работы с Qiwi Api(Token)
 <li>Запустите <b>qiwi.py</b> и начните работу
 </li>
 <hr/>
-<p align="center"><h1>Скриншот</h1></p>
+<p align="center"><h1>Скриншот(Windows)</h1></p>
 <p align="center"><img src="https://github.com/deniskrupina/QiwiApiHack/blob/master/img/screen.png"/></p>
 
