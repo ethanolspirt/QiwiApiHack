@@ -4,7 +4,7 @@ Qiwi Api Hack - это программа для работы с Qiwi Api(Token)
 <h1>Чтобы начать работу:</h1>
 <li>Установите все модули коммандой <b>sh installL.sh</b> (для Linux и Termux), или запустите <b>installW.bat</b>(для Windows)
 <li>Введите в <b>Token QIWI.txt</b> токен для работы с ним
-<li>Запустите программу и начните работу
+<li>Запустите <b>qiwi.py</b> и начните работу
 </li>
 <hr/>
 <p align="center"><h1>Скриншот</h1></p>
